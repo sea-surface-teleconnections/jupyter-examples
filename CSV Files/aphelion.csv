@@ -1,0 +1,38 @@
+Array,Event,Region,Standard Deviation,Min,Max,Mode/Highest Occurance,Mean/Average,Year
+0,aphelion,California Coast,2.4476779,279.942,294.477,"0    290.760986
+Name: analysed_sst, dtype: float32",288.94608,2003
+1,aphelion,California Coast,2.4634564,278.951,293.879,"0    289.647003
+Name: analysed_sst, dtype: float32",289.06656,2004
+2,aphelion,California Coast,2.5030773,280.067,294.628,"0    290.684998
+Name: analysed_sst, dtype: float32",288.57986,2005
+3,aphelion,California Coast,2.420314,280.84,293.742,"0    291.565979
+Name: analysed_sst, dtype: float32",289.3802,2006
+4,aphelion,California Coast,2.45339,280.88,295.55798,"0    291.643005
+1    291.666992
+Name: analysed_sst, dtype: float32",289.04596,2007
+5,aphelion,California Coast,2.5937264,272.193,292.783,"0    290.122986
+Name: analysed_sst, dtype: float32",287.96194,2008
+6,aphelion,California Coast,2.3892753,279.673,294.425,"0    291.048981
+Name: analysed_sst, dtype: float32",288.41116,2009
+7,aphelion,California Coast,2.4533784,281.175,295.242,"0    291.40799
+Name: analysed_sst, dtype: float32",289.30927,2010
+8,aphelion,California Coast,2.351928,279.904,293.62698,"0    286.638
+Name: analysed_sst, dtype: float32",288.43634,2011
+9,aphelion,California Coast,2.2501562,273.546,292.916,"0    289.011993
+Name: analysed_sst, dtype: float32",288.64096,2012
+10,aphelion,California Coast,2.3327258,281.49,294.28598,"0    291.574005
+Name: analysed_sst, dtype: float32",289.14026,2013
+11,aphelion,California Coast,2.4488466,271.871,293.955,"0    291.078003
+Name: analysed_sst, dtype: float32",289.1238,2014
+12,aphelion,California Coast,2.350714,272.034,294.93,"0    292.450989
+Name: analysed_sst, dtype: float32",290.55325,2015
+13,aphelion,California Coast,2.476287,279.559,296.529,"0    291.559998
+Name: analysed_sst, dtype: float32",289.78223,2016
+14,aphelion,California Coast,2.4212518,281.037,294.375,"0    291.411987
+Name: analysed_sst, dtype: float32",289.09982,2017
+15,aphelion,California Coast,2.4326046,274.154,295.16098,"0    291.569
+Name: analysed_sst, dtype: float32",290.12415,2018
+16,aphelion,California Coast,2.2593052,272.794,295.15298,"0    291.040009
+Name: analysed_sst, dtype: float32",289.5527,2019
+17,aphelion,California Coast,2.465424,282.30298,294.348,"0    291.622986
+Name: analysed_sst, dtype: float32",289.36975,2020

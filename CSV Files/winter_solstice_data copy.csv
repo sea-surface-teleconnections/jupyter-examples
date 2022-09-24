@@ -1,0 +1,39 @@
+,Event,Region,Standard Deviation,Min,Max,Mode/Highest Occurance,Mean/Average
+0,winter_solstice,California Coast,2.3809843,279.28198,296.125,"0    289.769989
+Name: analysed_sst, dtype: float32",289.50253
+1,winter_solstice,California Coast,2.430735,278.862,294.56598,"0    290.167999
+Name: analysed_sst, dtype: float32",289.63965
+2,winter_solstice,California Coast,2.407169,280.796,294.255,"0    291.035004
+Name: analysed_sst, dtype: float32",289.30057
+3,winter_solstice,California Coast,2.4709485,279.095,293.962,"0    291.578003
+Name: analysed_sst, dtype: float32",289.44833
+4,winter_solstice,California Coast,2.5229073,274.365,296.921,"0    291.704987
+Name: analysed_sst, dtype: float32",289.48764
+5,winter_solstice,California Coast,2.5222526,274.28198,294.016,"0    291.299988
+Name: analysed_sst, dtype: float32",288.74323
+6,winter_solstice,California Coast,2.6004395,278.88898,295.998,"0    291.684998
+Name: analysed_sst, dtype: float32",289.08542
+7,winter_solstice,California Coast,2.624335,280.26898,296.573,"0    291.462006
+Name: analysed_sst, dtype: float32",289.51047
+8,winter_solstice,California Coast,2.2943964,281.163,295.479,"0    291.368988
+Name: analysed_sst, dtype: float32",289.1312
+9,winter_solstice,California Coast,2.3825052,273.35,293.40698,"0    291.377991
+Name: analysed_sst, dtype: float32",288.77637
+10,winter_solstice,California Coast,2.5055645,276.172,296.09,"0    291.677002
+Name: analysed_sst, dtype: float32",289.6829
+11,winter_solstice,California Coast,2.6990218,273.37,294.972,"0    291.390991
+Name: analysed_sst, dtype: float32",289.0746
+12,winter_solstice,California Coast,2.2711027,277.221,296.81,"0    291.640991
+Name: analysed_sst, dtype: float32",291.47595
+13,winter_solstice,California Coast,2.5294328,282.352,297.98898,"0    292.213989
+Name: analysed_sst, dtype: float32",290.40933
+14,winter_solstice,California Coast,2.2995377,273.82898,294.387,"0    291.450989
+Name: analysed_sst, dtype: float32",289.98135
+15,winter_solstice,California Coast,2.4341977,276.453,296.169,"0    291.93399
+Name: analysed_sst, dtype: float32",290.30807
+16,winter_solstice,California Coast,2.2741523,282.76498,295.88,"0    292.528992
+Name: analysed_sst, dtype: float32",290.49896
+17,winter_solstice,California Coast,2.5542057,282.658,294.979,"0    291.963989
+Name: analysed_sst, dtype: float32",289.74673
+18,winter_solstice,California Coast,2.425445,281.85098,294.643,"0    291.716003
+Name: analysed_sst, dtype: float32",289.77344

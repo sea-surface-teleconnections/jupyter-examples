@@ -1,0 +1,40 @@
+,Event,Region,Standard Deviation,Min,Max,Mode/Highest Occurance,Mean/Average
+0,autumnal_equinox,California Coast,2.7337275,279.306,304.306,"0    293.173004
+Name: analysed_sst, dtype: float32",292.4781
+1,autumnal_equinox,California Coast,2.7275622,280.664,303.413,"0    293.390991
+Name: analysed_sst, dtype: float32",292.87292
+2,autumnal_equinox,California Coast,2.8496854,284.02698,304.003,"0    294.733002
+Name: analysed_sst, dtype: float32",293.56982
+3,autumnal_equinox,California Coast,3.162838,281.761,304.455,"0    293.333984
+Name: analysed_sst, dtype: float32",292.64136
+4,autumnal_equinox,California Coast,3.3419669,281.722,303.74,"0    293.669983
+1    293.774994
+Name: analysed_sst, dtype: float32",292.51846
+5,autumnal_equinox,California Coast,3.075631,282.457,304.45898,"0    293.803986
+Name: analysed_sst, dtype: float32",292.86157
+6,autumnal_equinox,California Coast,3.2445128,284.831,304.725,"0    292.436005
+Name: analysed_sst, dtype: float32",292.64084
+7,autumnal_equinox,California Coast,3.0973988,286.082,305.434,"0    294.039001
+Name: analysed_sst, dtype: float32",293.812
+8,autumnal_equinox,California Coast,2.917799,284.52,305.4,"0    292.132996
+Name: analysed_sst, dtype: float32",292.01532
+9,autumnal_equinox,California Coast,3.0753562,283.978,306.754,"0    291.781982
+Name: analysed_sst, dtype: float32",292.7259
+10,autumnal_equinox,California Coast,3.5981953,283.449,305.251,"0    292.335999
+Name: analysed_sst, dtype: float32",292.67435
+11,autumnal_equinox,California Coast,2.8128598,284.408,306.366,"0    294.434998
+Name: analysed_sst, dtype: float32",293.78473
+12,autumnal_equinox,California Coast,2.855421,286.369,305.151,"0    296.576996
+Name: analysed_sst, dtype: float32",294.92267
+13,autumnal_equinox,California Coast,3.0890856,282.763,305.021,"0    296.231995
+Name: analysed_sst, dtype: float32",294.88043
+14,autumnal_equinox,California Coast,2.9813302,282.552,304.05798,"0    293.617004
+Name: analysed_sst, dtype: float32",292.74823
+15,autumnal_equinox,California Coast,2.7946203,282.895,304.836,"0    293.210999
+Name: analysed_sst, dtype: float32",293.45633
+16,autumnal_equinox,California Coast,3.3158598,281.406,305.638,"0    291.678986
+Name: analysed_sst, dtype: float32",293.1195
+17,autumnal_equinox,California Coast,2.630113,283.95398,304.745,"0    295.048004
+Name: analysed_sst, dtype: float32",294.4877
+18,autumnal_equinox,California Coast,2.8430715,287.74298,306.109,"0    295.376984
+Name: analysed_sst, dtype: float32",294.41537
