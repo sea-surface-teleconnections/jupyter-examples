@@ -42,7 +42,7 @@ Some of the modules used include:
 Installation steps are necessary so go through each step to do so 
 
 ```
-git clone https://github.com/sea-surface-teleconnections/sea-surface-teleconnections.git
+git clone https://github.com/sea-surface-teleconnections/jupyter-examples.git
 ```
 
 
