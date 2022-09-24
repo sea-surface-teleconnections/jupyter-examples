@@ -2,12 +2,6 @@
 
 
 
-Always nice to have a status badge of all your pipelines in the readme
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sea-surface-teleconnections/sea-surface-teleconnections/blob/main/comet_ml.ipynb)
-
-
 > About This Project:
 * This Project Focuses on Assembling multi-decadal time series datasets of RS weather, land, and ocean data to assess spatial and temporal tele-connections linked to cloud cover, high temperature and wind patterns
 * Analyze annual and intra-annual variations for ocean variables linked to atmospheric conditions producing severe weather events using Python, R, and GIS tools
